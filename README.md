@@ -10,4 +10,4 @@ My discord is sans902#4875
 <br/>
 [I like coding on scratch, and my username is sans907](https://scratch.mit.edu/users/sans907/)
 <br/>
-Contact me at my [email](sans905@outlook.com), but only for important stuff
+Contact me at my email sans905@outlook.com, but only for important stuff
