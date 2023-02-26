@@ -1,4 +1,4 @@
-Hi there 👋 
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Sans!;HTML+Coder;JavaScript+Coder!">
 <br/>
 Im sans, a person who loves coding! 
 <br/>
