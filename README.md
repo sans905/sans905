@@ -1,5 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Sans!;HTML+Coder;JavaScript+Coder!">
 <br/>
+<br/>
+<br/>
+<br/>
 Im sans, a person who loves coding! 
 <br/>
 Im working on my website right now,I will announce it to public soon! 
